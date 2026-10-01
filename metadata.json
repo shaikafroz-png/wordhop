@@ -1,0 +1,6 @@
+{
+  "name": "WordHop",
+  "description": "Tactile, gamified English speech and dialogue adventure for Grades 1-9 learners with interactive phonetics, voice practice, and Google Drive certificate archiving.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
